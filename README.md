@@ -5,10 +5,12 @@ this is a basic website not so many features but with beautiful UI.
 ## Language And Platform Used 
 
 ### **Language**  - HTML, CSS, JAVAScript  &nbsp;&nbsp;  **Platforme**  - VS Code
-[![My Skills](https://skillicons.dev/icons?i=html,css,,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,,vscode)](https://skillicons.dev)
 
 ### ScreenShots
 ###  ![Screenshot (271)](https://github.com/user-attachments/assets/be6b90f6-1b0d-49ed-834f-6c8faae95732)
+###  ![Screenshot (270)](https://github.com/user-attachments/assets/9716077f-8c7c-4a59-b270-42f9dace99ce)
+###  ![Screenshot (272)](https://github.com/user-attachments/assets/a05f4921-158d-4afd-8f2c-41e20c4efbf2)
 
 
 ### 🚀 About Me :
